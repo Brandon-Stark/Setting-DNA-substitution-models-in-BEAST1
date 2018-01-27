@@ -21,7 +21,5 @@ TIM	           |   GTR	                          |  编辑XML文件使其他的�
 TVM	           |   GTR	                          |  不勾选AG替换“operator”
 TVMef	         |   GTR	                          |  不勾选AG替换“operator”并且碱基频率设置为 “All Equal”
 GTR	           |   GTR	                          |  不需要额外设置
-               |                                  |                                                     |
-               
-               
+                             
 更多有关BEAST的内容可以访问：[李老师的个人QQ空间日志](https://user.qzone.qq.com/2049968646/main) 

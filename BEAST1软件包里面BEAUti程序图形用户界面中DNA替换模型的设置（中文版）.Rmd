@@ -1,4 +1,4 @@
-BEAST1软件包里面BEAUti程序图形用户界面只给出了3种目前最流行的DNA替换模型: `HKY`、TrN和GTR。目前，标准的DNA替换模型有11种，也就是说还有8种（JC69、TrNef、K80、F81、SYM、TIM、TVM和TVMef）DNA替换模型没有指定，需要自己想办法解决。
+BEAST1软件包里面BEAUti程序图形用户界面只给出了3种目前最流行的DNA替换模型: HKY、TrN和GTR。目前，标准的DNA替换模型有11种，也就是说还有8种（JC69、TrNef、K80、F81、SYM、TIM、TVM和TVMef）DNA替换模型没有指定，需要自己想办法解决。
 
 我在线上和线下授课的过程中遇到很多的学员问我这样的问题：
 
